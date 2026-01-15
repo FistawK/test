@@ -1,1 +1,1 @@
-print('hellddo')
+input('> ')
